@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="process_title">Running Processes asdf asd fasdfasdf asdf</string>
+    <string name="cpuPlaceholder">CPU Placeholder</string>
+</resources>
