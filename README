@@ -1,0 +1,3 @@
+Provides cpu utilization and running app processes
+
+NOTE: Functionality for this app has only been tested on Android 4.4 Kit Kat (api level 19)
